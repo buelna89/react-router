@@ -8,7 +8,6 @@ body{
   width: 100%;
   margin: 0 auto;
   font-family: 'Trajan Pro', sans-serif;
-  color: darkgoldenrod;
 }
 
 .logo{
@@ -60,14 +59,14 @@ ul.nav-links a {
 nav ul li {
   display: inline-block;
   padding: 1em;
-  color: goldenrod;
+  color: grey;
 }
 
 nav ul li :link{
   color: goldenrod
 }
 
-nav ul li :link:hover{
+nav ul li :hover{
   color: goldenrod;
 }
 
@@ -75,7 +74,7 @@ nav ul li :link:hover{
   list-style: none;
   align-items: left;
   display: flex;
-  color: white;
+  color: goldenrod;
 }
 
 .nav-link{
